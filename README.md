@@ -2,7 +2,7 @@
 
 * 😁 I´m Janet
 * 🌱 I am currently working as a Google Ads Manager
-* 🙌 I am interested in data analysis; for that reason, in my free time, I am dedicated to enhancing my skills in Excel, R, SQL, Tableau, and Python.
+* 🙌 I'm also keen on data analysis and IT. In my free time, I focus on learning and improving my skills in Excel, R, SQL, Tableau, and Python..
 * 😉 I enjoy knitting, solving puzzles, playing volleyball, reading about psychology, technology, and marketing, as well as listening to podcasts.
 * ❤️ 🐶 🐱 I love Dogs and Cats 
 * 👀 You can contact me on [LinkedIn](https://www.linkedin.com/in/janet-cajavilca/).
